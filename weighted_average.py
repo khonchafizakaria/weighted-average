@@ -58,6 +58,6 @@ print("Prdouct was rated {}/5.0".format(weighted_average()))
 # 12.1% of your users have given this product a rating of 3
 # 19.4% of your users have given this product a rating of 2
 # 32.1% of your users have given this product a rating of 1
-# Prdouct was rated 2.7/5.0
+# Product was rated 2.7/5.0
 
 
