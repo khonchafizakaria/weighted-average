@@ -1,4 +1,4 @@
-# How to calculate the weighted average based on a 5 start rating,
+# How to calculate the weighted average based on a 5 star rating,
 # we will use "Decimal" to avoid rounding issues
 from decimal import Decimal
 
